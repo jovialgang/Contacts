@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Contacts</string>
+    <string name="permission_rationale">Приложению нужен доступ к контактам</string>
+    <string name="grant_permission">Разрешить</string>
+    <string name="no_contacts">Контактов нет</string>
+    <string name="no_dialer">Нет приложения для звонков</string>
 </resources>
